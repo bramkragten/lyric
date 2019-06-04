@@ -1,0 +1,12 @@
+{
+  "domain": "lyric",
+  "name": "Lyric",
+  "documentation": "https://github.com/bramkragten/lyric",
+  "requirements": [
+    "python-lyric==1.1.4"
+  ],
+  "dependencies": [],
+  "codeowners": [
+    "@bramkragten"
+  ]
+}
