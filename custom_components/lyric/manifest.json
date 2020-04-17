@@ -5,7 +5,7 @@
   "requirements": [
     "python-lyric==1.1.4"
   ],
-  "dependencies": [],
+  "dependencies": ["http", "configurator"],
   "codeowners": [
     "@bramkragten"
   ]
